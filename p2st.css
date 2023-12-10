@@ -1,0 +1,80 @@
+body{
+    background: rgb(5, 91, 71);
+    background-image: url(New-blog-graphic.jpg);
+}
+
+
+
+.app{
+    background: white;
+    width: 90%;
+    margin: 100px auto 0;
+    max-width: 500px;
+    border-radius: 15px;
+    padding : 40px;
+
+
+}
+.app h1{
+    font-size: 30px;
+    color: rgb(0, 55, 104);
+    font-weight: 625;
+    border-bottom: 1px solid #483c3c;
+    padding-bottom: 22px;
+    border-top: 1px solid #483c3c;
+    padding-top: 22px;
+
+
+}
+.quiz{
+    padding: 20px 0;
+    display: contents;
+
+}
+.quiz h2{
+    font-size: 20px;
+    color:rgb(6, 116, 79);
+    font-weight: 550;
+}
+.btn1, .btn2, .btn3, .btn4{
+    background: white;
+    color: #501818;
+    font-weight: 500;
+    width: 90%;
+    border: 1px solid #483c3c;
+    padding: 13px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 6px;
+    cursor: pointer;    
+    transition: all 0.7s;
+
+}
+.btn1:hover{
+    background:  rgb(5, 91, 71);
+    color: white;
+    width: 93%;
+}
+.btn2:hover{
+    background:  rgb(5, 91, 71);
+    color: white;
+    width: 93%;
+}
+.btn3:hover{
+    background:  rgb(5, 91, 71);
+    color: white;
+    width: 93%;
+}
+.btn4:hover{
+    background:  rgb(5, 91, 71);
+    color: white;
+    width: 93%;
+}
+.score{
+    display: block;
+    font-size: 25px;
+    color:rgb(5, 91, 71);
+}
+.c{
+    display: none;
+}
